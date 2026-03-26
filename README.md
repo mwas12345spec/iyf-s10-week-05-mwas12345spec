@@ -3,36 +3,46 @@
 ## Author
 - **Name:** Mark mwangi
 - **GitHub:** [@mwas12345spec](https://github.com/mwas12345spec)
-- **Date:** Month Day, Year
+- **Date:** 3/26/2026
 
 ## Project Description
-Brief description of what you built and why.
+This project demonstrates DOM manipulation and event handling in JavaScript.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
-- (list all technologies)
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+##  To-Do List App Features
+- Add tasks
+- Delete tasks
+- Mark tasks complete
+- Filter (All, Active, Completed)
+- Items left counter
+- Clear completed tasks
 
-## How to Run
-1. Clone this repository
+## How to run
 2. Open `index.html` in your browser
-   OR
-   Run `npm install` then `npm start`
+   
 
 ## Lessons Learned
-What did you learn while building this project?
+### Lesson 9
+- Element selection (getElementById, querySelector, etc.)
+- DOM traversal
+- Content and style manipulation
+- Adding/removing elements
+
+### Lesson 10
+- Event listeners (click, submit, keyboard)
+- Event object usage
+- Event delegation
+- Form handling
+
 
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+ i encountered challenges in styling
 
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
-[View Live Demo](https://your-deployed-url.com)
+[View Live Demo](https://https://mwas12345spec.github.io/iyf-s10-week-05-mwas1235spec/)
