@@ -7,7 +7,7 @@
 - **Date:** 3/26/2026
 
 ## Project Description
-This project demonstrates DOM manipulation and event handling in JavaScript.
+This project   my demonstrates DOM manipulation and event handling in JavaScript.
 
 ## Technologies Used
 - HTML
