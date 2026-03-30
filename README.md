@@ -44,9 +44,5 @@ This project   my demonstrates DOM manipulation and event handling in JavaScript
 ## Challenges Faced
  i encountered challenges in styling
 
-
-## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
-
 ## Live Demo (if deployed)
 [View Live Demo]( https://mwas12345spec.github.io/iyf-s10-week-05-mwas1235spec/)
