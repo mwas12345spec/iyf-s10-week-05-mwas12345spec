@@ -45,5 +45,5 @@ This project   my demonstrates DOM manipulation and event handling in JavaScript
  i encountered challenges in styling
  
 
-## Live Demo (if deployed)
-[View Live Demo](https://mwas12345spec.github.io/iyf-s10-week-05-mwas12345spec/)
+## Live Demo 
+[View Live Demo]( https://mwas12345spec.github.io/iyf-s10-week-05-mwas12345spec/)
